@@ -1,0 +1,41 @@
+{
+  "applicant": [
+    { "id": 1, "first_name": "john", 	"last_name": "coles",	"middle_name": "J", "email": "john@gmail.com",		"mobile": "8771231234", "height": "6'5", "dateOfBirth": "02/15/1985", "hair_color": "black", "status": "active" },
+    { "id": 2, "first_name": "adam", 	"last_name": "dales",	"middle_name": "B", "email": "adam@gmail.com", 		"mobile": "8771231234", "height": "6'5", "dateOfBirth": "02/15/1985", "hair_color": "black",  "status": "pending"},
+    { "id": 3, "first_name": "peter",	"last_name": "parker", 	"middle_name": "C", "email": "peter@gmail.com",		"mobile": "8771231234", "height": "6'5", "dateOfBirth": "02/15/1985", "hair_color": "black",  "status": "pending"},
+	{ "id": 4, "first_name": "luke", 	"last_name": "batman", 	"middle_name": "H", "email": "luke@gmail.com",		"mobile": "8771231234", "height": "6'5", "dateOfBirth": "02/15/1985", "hair_color": "black",  "status": "active" },
+	{ "id": 5, "first_name": "mark", 	"last_name": "robin", 	"middle_name": "K", "email": "mark@gmail.com", 		"mobile": "8771231234", "height": "6'5", "dateOfBirth": "02/15/1985", "hair_color": "black",  "status": "pending"},
+    { "id": 6, "first_name": "franklin", "last_name": "coles", 	"middle_name": "J", "email": "franklin@gmail.com",	"mobile": "8771231234", "height": "6'5", "dateOfBirth": "02/15/1985", "hair_color": "black",  "status": "active" },
+    { "id": 7, "first_name": "bill", 	"last_name": "dales", 	"middle_name": "B", "email": "bill@gmail.com",		"mobile": "8771231234", "height": "6'5", "dateOfBirth": "02/15/1985", "hair_color": "black",  "status": "pending"},
+    { "id": 8, "first_name": "donald",	"last_name": "parker", 	"middle_name": "C", "email": "kent@gmail.com",		"mobile": "8771231234", "height": "6'5", "dateOfBirth": "02/15/1985", "hair_color": "black",  "status": "pending"},
+	{ "id": 9, "first_name": "kent", 	"last_name": "batman", 	"middle_name": "H", "email": "luke@gmail.com", 		"mobile": "8771231234", "height": "6'5", "dateOfBirth": "02/15/1985", "hair_color": "black",  "status": "active" },
+	{ "id": 10, "first_name": "laurie", "last_name": "robin", 	"middle_name": "K", "email": "laurie@gmail.com", 	"mobile": "8771231234", "height": "6'5", "dateOfBirth": "02/15/1985", "hair_color": "black",  "status": "pending"}
+  ],
+  "case": [
+	{ "id": 1, "status": "pending", 	"number": "0-000-1", "app_id": 1 },
+	{ "id": 2, "status": "in progress", "number": "0-000-2", "app_id": 2 },
+	{ "id": 3, "status": "pending", 	"number": "0-000-3", "app_id": 3 },
+	{ "id": 4, "status": "approved", 	"number": "0-000-4", "app_id": 4 },
+	{ "id": 5, "status": "denied", 		"number": "0-000-5", "app_id": 4 },
+	{ "id": 6, "status": "approved",	"number": "0-000-6", "app_id": 5 },
+	{ "id": 7, "status": "denied", 		"number": "0-000-7", "app_id": 6 },
+	{ "id": 8, "status": "pending", 	"number": "0-000-8", "app_id": 7 },
+	{ "id": 9, "status": "in progress", "number": "0-000-9", "app_id": 8 },
+	{ "id": 10, "status": "pending", 	"number": "0-000-10", "app_id": 9 },
+	{ "id": 11, "status": "approved", 	"number": "0-000-11", "app_id": 9 },
+	{ "id": 12, "status": "denied", 	"number": "0-000-12", "app_id": 10 },
+	{ "id": 13, "status": "approved",	"number": "0-000-13", "app_id": 10 },
+	{ "id": 14, "status": "denied", 	"number": "0-000-14", "app_id": 1 },
+	{ "id": 15, "status": "pending", 	"number": "0-000-15", "app_id": 1 },
+	{ "id": 16, "status": "in progress", "number": "0-000-16", "app_id": 2 },
+	{ "id": 17, "status": "pending", 	"number": "0-000-17", "app_id": 3 },
+	{ "id": 18, "status": "approved", 	"number": "0-000-18", "app_id": 4 },
+	{ "id": 19, "status": "denied", 	"number": "0-000-19", "app_id": 5 },
+	{ "id": 20, "status": "approved",	"number": "0-000-20", "app_id": 6 },
+	{ "id": 21, "status": "denied", 	"number": "0-000-21", "app_id": 8 }
+
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
